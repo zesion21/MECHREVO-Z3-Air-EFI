@@ -1,0 +1,117 @@
+[
+  {
+    "repository": "acidanthera/OpenCorePkg",
+    "ref": "1.0.8",
+    "license_url": "https://github.com/acidanthera/OpenCorePkg/blob/1.0.8/LICENSE.txt",
+    "local_file": "acidanthera_OpenCorePkg.txt",
+    "status": "collected"
+  },
+  {
+    "repository": "acidanthera/Lilu",
+    "ref": "1.7.2",
+    "license_url": "https://github.com/acidanthera/Lilu/blob/1.7.2/LICENSE.txt",
+    "local_file": "acidanthera_Lilu.txt",
+    "status": "collected"
+  },
+  {
+    "repository": "acidanthera/WhateverGreen",
+    "ref": "1.7.1",
+    "license_url": "https://github.com/acidanthera/WhateverGreen/blob/1.7.1/LICENSE.txt",
+    "local_file": "acidanthera_WhateverGreen.txt",
+    "status": "collected"
+  },
+  {
+    "repository": "acidanthera/VirtualSMC",
+    "ref": "1.3.8",
+    "license_url": "https://github.com/acidanthera/VirtualSMC/blob/1.3.8/LICENSE.txt",
+    "local_file": "acidanthera_VirtualSMC.txt",
+    "status": "collected"
+  },
+  {
+    "repository": "acidanthera/AppleALC",
+    "ref": "1.9.8",
+    "license_url": "https://github.com/acidanthera/AppleALC/blob/1.9.8/LICENSE.txt",
+    "local_file": "acidanthera_AppleALC.txt",
+    "status": "collected"
+  },
+  {
+    "repository": "acidanthera/RestrictEvents",
+    "ref": "1.1.6",
+    "license_url": "https://github.com/acidanthera/RestrictEvents/blob/1.1.6/LICENSE.txt",
+    "local_file": "acidanthera_RestrictEvents.txt",
+    "status": "collected"
+  },
+  {
+    "repository": "acidanthera/VoodooPS2",
+    "ref": "2.3.7",
+    "license_url": "https://github.com/acidanthera/VoodooPS2/blob/2.3.7/LICENSE.md",
+    "local_file": "acidanthera_VoodooPS2.txt",
+    "status": "collected"
+  },
+  {
+    "repository": "acidanthera/BrcmPatchRAM",
+    "ref": "2.7.2",
+    "license_url": "https://github.com/acidanthera/BrcmPatchRAM/blob/2.7.2/LICENSE",
+    "local_file": "acidanthera_BrcmPatchRAM.txt",
+    "status": "collected"
+  },
+  {
+    "repository": "VoodooI2C/VoodooI2C",
+    "ref": "v2.9.1",
+    "license_url": "https://github.com/VoodooI2C/VoodooI2C/blob/v2.9.1/LICENSE.txt",
+    "local_file": "VoodooI2C_VoodooI2C.txt",
+    "status": "collected"
+  },
+  {
+    "repository": "laobamac/itlwm",
+    "ref": "v2.4.0-alpha",
+    "license_url": "https://github.com/laobamac/itlwm/blob/v2.4.0-alpha/LICENSE",
+    "local_file": "laobamac_itlwm.txt",
+    "status": "collected"
+  },
+  {
+    "repository": "laobamac/SimpleHDA",
+    "ref": "v1.0.3-alpha",
+    "status": "not-collected",
+    "reason": "HTTP Error 404: Not Found"
+  },
+  {
+    "repository": "lshbluesky/IntelBluetoothFirmware",
+    "ref": "v2.5.3",
+    "license_url": "https://github.com/lshbluesky/IntelBluetoothFirmware/blob/v2.5.3/LICENSE",
+    "local_file": "lshbluesky_IntelBluetoothFirmware.txt",
+    "status": "collected"
+  },
+  {
+    "repository": "USBToolBox/kext",
+    "ref": "1.2.0",
+    "status": "not-collected",
+    "reason": "HTTP Error 404: Not Found"
+  },
+  {
+    "repository": "dhinakg/AMFIPass",
+    "ref": "",
+    "status": "not-collected",
+    "reason": "HTTP Error 404: Not Found"
+  },
+  {
+    "repository": "nullmoth/1401",
+    "ref": "upstream default branch at retrieval",
+    "license_url": "https://github.com/nullmoth/1401/blob/main/LICENSE",
+    "local_file": "nullmoth_1401.txt",
+    "status": "collected"
+  },
+  {
+    "repository": "goshin/VoodooWMI",
+    "ref": "upstream default branch at retrieval",
+    "license_url": "https://github.com/Goshin/VoodooWMI/blob/master/LICENSE",
+    "local_file": "goshin_VoodooWMI.txt",
+    "status": "collected"
+  },
+  {
+    "repository": "Mieze/RTL8111_driver_for_OS_X",
+    "ref": "",
+    "status": "not-collected",
+    "reason": "HTTP Error 404: Not Found"
+  }
+]

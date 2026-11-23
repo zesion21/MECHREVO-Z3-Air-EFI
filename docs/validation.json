@@ -1,0 +1,1593 @@
+{
+  "kind": "static-release-validation",
+  "ocvalidate_requested": true,
+  "checks": 396,
+  "passed": 396,
+  "hardware_boot_test_performed": false,
+  "results": [
+    {
+      "check": "EFI/OC/config.plist: public identity placeholders",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: model retained",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist Lilu.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext Lilu.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist VirtualSMC.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext VirtualSMC.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist WhateverGreen.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext WhateverGreen.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist RestrictEvents.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext RestrictEvents.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist AppleALC.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext AppleALC.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist SimpleHDA.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext SimpleHDA.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist SMCBatteryManager.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext SMCBatteryManager.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist SMCProcessor.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext SMCProcessor.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist SMCSuperIO.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext SMCSuperIO.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist VoodooI2C.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext VoodooI2C.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist VoodooI2CHID.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext VoodooI2CHID.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist VoodooPS2Controller.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext VoodooPS2Controller.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist AirportItlwm.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext AirportItlwm.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist IntelBluetoothFirmware.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext IntelBluetoothFirmware.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist IntelBTPatcher.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext IntelBTPatcher.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist BlueToolFixup.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext BlueToolFixup.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist RealtekRTL8111.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext RealtekRTL8111.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist VoodooWMI.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext VoodooWMI.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist VoodooWMIHotkey.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext VoodooWMIHotkey.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist USBToolBox.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext USBToolBox.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist UTBMap.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: kext plist AMFIPass.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: x86_64 kext AMFIPass.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: unique enabled bundle IDs",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency VirtualSMC.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency WhateverGreen.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency RestrictEvents.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency AppleALC.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency SimpleHDA.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency SMCBatteryManager.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency SMCBatteryManager.kext -> as.vit9696.VirtualSMC",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency SMCProcessor.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency SMCProcessor.kext -> as.vit9696.VirtualSMC",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency SMCSuperIO.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency SMCSuperIO.kext -> as.vit9696.VirtualSMC",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency VoodooI2C.kext -> com.alexandred.VoodooI2CServices",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency VoodooI2C.kext -> org.coolstar.VoodooGPIO",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency VoodooI2CHID.kext -> com.alexandred.VoodooI2C",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency IntelBTPatcher.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency BlueToolFixup.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency VoodooWMIHotkey.kext -> io.github.goshin.VoodooWMI",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext -> as.acidanthera.voodoo.driver.PS2Controller",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency UTBMap.kext -> com.dhinakg.USBToolBox.kext",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dependency AMFIPass.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: USBToolBox before map",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: obsolete USB injection disabled",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: ACPI file SSDT-BATT.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: AML checksum SSDT-BATT.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: ACPI file SSDT-PLUG.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: AML checksum SSDT-PLUG.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: ACPI file SSDT-EC-USBX.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: AML checksum SSDT-EC-USBX.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: ACPI file SSDT-USTP.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: AML checksum SSDT-USTP.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: ACPI file SSDT-PNLF.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: AML checksum SSDT-PNLF.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: ACPI file SSDT-FN.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: AML checksum SSDT-FN.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: ACPI file SSDT-PMC.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: AML checksum SSDT-PMC.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: ACPI file SSDT-AWAC.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: AML checksum SSDT-AWAC.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: ACPI file SSDT-GPRW.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: AML checksum SSDT-GPRW.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: ACPI file SSDT-PWBTN.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: AML checksum SSDT-PWBTN.aml",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: EFI reference OpenRuntime.efi",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: EFI reference OpenHfsPlus.efi",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: EFI reference ResetNvramEntry.efi",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: EFI reference NullMothSafe.efi",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: EFI reference NullMothSafe.efi",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: dGPU exposed with backlight patch",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: installed NVIDIA settings",
+      "pass": true
+    },
+    {
+      "check": "EFI/OC/config.plist: OpenCore 1.0.8 ocvalidate",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: public identity placeholders",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: model retained",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist Lilu.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext Lilu.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist VirtualSMC.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext VirtualSMC.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist WhateverGreen.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext WhateverGreen.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist RestrictEvents.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext RestrictEvents.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist AppleALC.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext AppleALC.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist SimpleHDA.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext SimpleHDA.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist SMCBatteryManager.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext SMCBatteryManager.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist SMCProcessor.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext SMCProcessor.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist SMCSuperIO.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext SMCSuperIO.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist VoodooI2C.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext VoodooI2C.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist VoodooI2CHID.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext VoodooI2CHID.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist VoodooPS2Controller.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext VoodooPS2Controller.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist AirportItlwm.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext AirportItlwm.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist IntelBluetoothFirmware.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext IntelBluetoothFirmware.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist IntelBTPatcher.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext IntelBTPatcher.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist BlueToolFixup.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext BlueToolFixup.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist RealtekRTL8111.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext RealtekRTL8111.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist VoodooWMI.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext VoodooWMI.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist VoodooWMIHotkey.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext VoodooWMIHotkey.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist USBToolBox.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: x86_64 kext USBToolBox.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: kext plist UTBMap.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: unique enabled bundle IDs",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency VirtualSMC.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency WhateverGreen.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency RestrictEvents.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency AppleALC.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency SimpleHDA.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency SMCBatteryManager.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency SMCBatteryManager.kext -> as.vit9696.VirtualSMC",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency SMCProcessor.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency SMCProcessor.kext -> as.vit9696.VirtualSMC",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency SMCSuperIO.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency SMCSuperIO.kext -> as.vit9696.VirtualSMC",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency VoodooI2C.kext -> com.alexandred.VoodooI2CServices",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency VoodooI2C.kext -> org.coolstar.VoodooGPIO",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency VoodooI2CHID.kext -> com.alexandred.VoodooI2C",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency IntelBTPatcher.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency BlueToolFixup.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency VoodooWMIHotkey.kext -> io.github.goshin.VoodooWMI",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext -> as.acidanthera.voodoo.driver.PS2Controller",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dependency UTBMap.kext -> com.dhinakg.USBToolBox.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: USBToolBox before map",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: obsolete USB injection disabled",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: ACPI file SSDT-BATT.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: AML checksum SSDT-BATT.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: ACPI file SSDT-PLUG.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: AML checksum SSDT-PLUG.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: ACPI file SSDT-EC-USBX.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: AML checksum SSDT-EC-USBX.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: ACPI file SSDT-USTP.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: AML checksum SSDT-USTP.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: ACPI file SSDT-PNLF.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: AML checksum SSDT-PNLF.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: ACPI file SSDT-FN.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: AML checksum SSDT-FN.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: ACPI file SSDT-PMC.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: AML checksum SSDT-PMC.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: ACPI file SSDT-AWAC.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: AML checksum SSDT-AWAC.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: ACPI file SSDT-GPRW.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: AML checksum SSDT-GPRW.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: ACPI file SSDT-PWBTN.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: AML checksum SSDT-PWBTN.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: EFI reference OpenRuntime.efi",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: EFI reference OpenHfsPlus.efi",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: EFI reference ResetNvramEntry.efi",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: dGPU exposed with backlight patch",
+      "pass": true
+    },
+    {
+      "check": "configs/config-GTX1650-preinstall.plist: OpenCore 1.0.8 ocvalidate",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: public identity placeholders",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: model retained",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist Lilu.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext Lilu.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist VirtualSMC.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext VirtualSMC.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist WhateverGreen.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext WhateverGreen.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist RestrictEvents.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext RestrictEvents.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist AppleALC.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext AppleALC.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist SimpleHDA.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext SimpleHDA.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist SMCBatteryManager.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext SMCBatteryManager.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist SMCProcessor.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext SMCProcessor.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist SMCSuperIO.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext SMCSuperIO.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist VoodooI2C.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext VoodooI2C.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist VoodooI2CHID.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext VoodooI2CHID.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist VoodooPS2Controller.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext VoodooPS2Controller.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist AirportItlwm.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext AirportItlwm.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist IntelBluetoothFirmware.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext IntelBluetoothFirmware.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist IntelBTPatcher.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext IntelBTPatcher.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist BlueToolFixup.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext BlueToolFixup.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist RealtekRTL8111.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext RealtekRTL8111.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist VoodooWMI.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext VoodooWMI.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist VoodooWMIHotkey.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext VoodooWMIHotkey.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist USBToolBox.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: x86_64 kext USBToolBox.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: kext plist UTBMap.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: unique enabled bundle IDs",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency VirtualSMC.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency WhateverGreen.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency RestrictEvents.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency AppleALC.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency SimpleHDA.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency SMCBatteryManager.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency SMCBatteryManager.kext -> as.vit9696.VirtualSMC",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency SMCProcessor.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency SMCProcessor.kext -> as.vit9696.VirtualSMC",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency SMCSuperIO.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency SMCSuperIO.kext -> as.vit9696.VirtualSMC",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency VoodooI2C.kext -> com.alexandred.VoodooI2CServices",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency VoodooI2C.kext -> org.coolstar.VoodooGPIO",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency VoodooI2CHID.kext -> com.alexandred.VoodooI2C",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency IntelBTPatcher.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency BlueToolFixup.kext -> as.vit9696.Lilu",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency VoodooWMIHotkey.kext -> io.github.goshin.VoodooWMI",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext -> as.acidanthera.voodoo.driver.PS2Controller",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: dependency UTBMap.kext -> com.dhinakg.USBToolBox.kext",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: USBToolBox before map",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: obsolete USB injection disabled",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: ACPI file SSDT-BATT.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: AML checksum SSDT-BATT.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: ACPI file SSDT-PLUG.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: AML checksum SSDT-PLUG.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: ACPI file SSDT-EC-USBX.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: AML checksum SSDT-EC-USBX.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: ACPI file SSDT-DDGPU.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: AML checksum SSDT-DDGPU.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: ACPI file SSDT-USTP.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: AML checksum SSDT-USTP.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: ACPI file SSDT-PNLF.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: AML checksum SSDT-PNLF.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: ACPI file SSDT-FN.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: AML checksum SSDT-FN.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: ACPI file SSDT-PMC.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: AML checksum SSDT-PMC.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: ACPI file SSDT-AWAC.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: AML checksum SSDT-AWAC.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: ACPI file SSDT-GPRW.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: AML checksum SSDT-GPRW.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: ACPI file SSDT-PWBTN.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: AML checksum SSDT-PWBTN.aml",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: EFI reference OpenRuntime.efi",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: EFI reference OpenHfsPlus.efi",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: EFI reference ResetNvramEntry.efi",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: installation stage",
+      "pass": true
+    },
+    {
+      "check": "configs/config-UHD630.plist: OpenCore 1.0.8 ocvalidate",
+      "pass": true
+    },
+    {
+      "check": "x64 PE/COFF EFI/BOOT/BOOTx64.efi",
+      "pass": true
+    },
+    {
+      "check": "x64 PE/COFF EFI/OC/OpenCore.efi",
+      "pass": true
+    },
+    {
+      "check": "x64 PE/COFF EFI/OC/Drivers/OpenHfsPlus.efi",
+      "pass": true
+    },
+    {
+      "check": "x64 PE/COFF EFI/OC/Drivers/OpenRuntime.efi",
+      "pass": true
+    },
+    {
+      "check": "x64 PE/COFF EFI/OC/Drivers/ResetNvramEntry.efi",
+      "pass": true
+    },
+    {
+      "check": "x64 PE/COFF EFI/OC/Tools/NullMothSafe.efi",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/BOOT/BOOTx64.efi",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/ACPI/SSDT-AWAC.aml",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/ACPI/SSDT-BATT.aml",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/ACPI/SSDT-DDGPU.aml",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/ACPI/SSDT-EC-USBX.aml",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/ACPI/SSDT-FN.aml",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/ACPI/SSDT-GPRW.aml",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/ACPI/SSDT-PLUG.aml",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/ACPI/SSDT-PMC.aml",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/ACPI/SSDT-PNLF.aml",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/ACPI/SSDT-PWBTN.aml",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/ACPI/SSDT-USTP.aml",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/config.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Drivers/OpenHfsPlus.efi",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Drivers/OpenRuntime.efi",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Drivers/ResetNvramEntry.efi",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/AirportItlwm.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/AirportItlwm.kext/Contents/MacOS/AirportItlwm",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/AMFIPass.kext/Contents/_CodeSignature/CodeResources",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/AMFIPass.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/AMFIPass.kext/Contents/MacOS/AMFIPass",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/AppleALC.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/AppleALC.kext/Contents/MacOS/AppleALC",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/BlueToolFixup.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/BlueToolFixup.kext/Contents/MacOS/BlueToolFixup",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/IntelBluetoothFirmware.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/IntelBluetoothFirmware.kext/Contents/MacOS/IntelBluetoothFirmware",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/IntelBTPatcher.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/IntelBTPatcher.kext/Contents/MacOS/IntelBTPatcher",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/Lilu.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/Lilu.kext/Contents/MacOS/Lilu",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/RealtekRTL8111.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/RealtekRTL8111.kext/Contents/MacOS/RealtekRTL8111",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/RealtekRTL8111.kext/Contents/Resources/en.lproj/InfoPlist.strings",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/RestrictEvents.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/RestrictEvents.kext/Contents/MacOS/RestrictEvents",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/SimpleHDA.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/SimpleHDA.kext/Contents/MacOS/SimpleHDA",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/SMCBatteryManager.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/SMCBatteryManager.kext/Contents/MacOS/SMCBatteryManager",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/SMCBatteryManager.kext/Contents/Resources/SSDT-BATC.dsl",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/SMCProcessor.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/SMCProcessor.kext/Contents/MacOS/SMCProcessor",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/SMCSuperIO.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/SMCSuperIO.kext/Contents/MacOS/SMCSuperIO",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/USBToolBox.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/USBToolBox.kext/Contents/MacOS/USBToolBox",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/UTBMap.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VirtualSMC.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VirtualSMC.kext/Contents/MacOS/VirtualSMC",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2C.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2C.kext/Contents/MacOS/VoodooI2C",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext/Contents/_CodeSignature/CodeResources",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext/Contents/MacOS/VoodooGPIO",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext/Contents/_CodeSignature/CodeResources",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext/Contents/MacOS/VoodooI2CServices",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext/Contents/_CodeSignature/CodeResources",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext/Contents/MacOS/VoodooInput",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2CHID.kext/Contents/_CodeSignature/CodeResources",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2CHID.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooI2CHID.kext/Contents/MacOS/VoodooI2CHID",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/MacOS/VoodooPS2Controller",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/_CodeSignature/CodeResources",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/MacOS/VoodooInput",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/MacOS/VoodooPS2Keyboard",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/MacOS/VoodooPS2Mouse",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/MacOS/VoodooPS2Trackpad",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooWMI.kext/Contents/_CodeSignature/CodeResources",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooWMI.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooWMI.kext/Contents/MacOS/VoodooWMI",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooWMIHotkey.kext/Contents/_CodeSignature/CodeResources",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooWMIHotkey.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/VoodooWMIHotkey.kext/Contents/MacOS/VoodooWMIHotkey",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/WhateverGreen.kext/Contents/Info.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Kexts/WhateverGreen.kext/Contents/MacOS/WhateverGreen",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/OpenCore.efi",
+      "pass": true
+    },
+    {
+      "check": "SHA256 EFI/OC/Tools/NullMothSafe.efi",
+      "pass": true
+    },
+    {
+      "check": "SHA256 configs/config-GTX1650-preinstall.plist",
+      "pass": true
+    },
+    {
+      "check": "SHA256 configs/config-UHD630.plist",
+      "pass": true
+    },
+    {
+      "check": "No identity backups or Finder metadata in EFI",
+      "pass": true
+    }
+  ]
+}

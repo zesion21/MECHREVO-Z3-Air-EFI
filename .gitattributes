@@ -1,0 +1,11 @@
+* text=auto eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.plist text eol=lf
+*.txt text eol=lf
+*.efi binary
+*.aml binary
+# Preserve third-party EFI / kext payloads, signatures and plists byte for byte.
+EFI/** -text
+EFI/OC/config.plist text eol=lf

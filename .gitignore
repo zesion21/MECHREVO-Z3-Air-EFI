@@ -1,0 +1,19 @@
+# Local identities, backups and machine logs must stay out of the repository.
+.DS_Store
+._*
+__MACOSX/
+__pycache__/
+*.pyc
+*.before-*
+*.bak
+*.backup
+opencore-*.txt
+*.log
+nvram.plist
+private/
+.local/
+dist/
+*.dmg
+*.run
+*.zip
+*.tar.gz

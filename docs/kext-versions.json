@@ -1,0 +1,112 @@
+[
+  {
+    "bundle": "AirportItlwm.kext",
+    "identifier": "com.zxystd.AirportItlwm",
+    "version": "2.4.0"
+  },
+  {
+    "bundle": "AMFIPass.kext",
+    "identifier": "com.dhinakg.AMFIPass",
+    "version": "1.4.1"
+  },
+  {
+    "bundle": "AppleALC.kext",
+    "identifier": "as.vit9696.AppleALC",
+    "version": "1.9.8"
+  },
+  {
+    "bundle": "BlueToolFixup.kext",
+    "identifier": "as.acidanthera.BlueToolFixup",
+    "version": "2.7.2"
+  },
+  {
+    "bundle": "IntelBluetoothFirmware.kext",
+    "identifier": "com.zxystd.IntelBluetoothFirmware",
+    "version": "2.5.3"
+  },
+  {
+    "bundle": "IntelBTPatcher.kext",
+    "identifier": "com.zxystd.IntelBTPatcher",
+    "version": "2.5.3"
+  },
+  {
+    "bundle": "Lilu.kext",
+    "identifier": "as.vit9696.Lilu",
+    "version": "1.7.2"
+  },
+  {
+    "bundle": "RealtekRTL8111.kext",
+    "identifier": "com.insanelymac.RealtekRTL8111",
+    "version": "2.4.2"
+  },
+  {
+    "bundle": "RestrictEvents.kext",
+    "identifier": "as.vit9696.RestrictEvents",
+    "version": "1.1.6"
+  },
+  {
+    "bundle": "SimpleHDA.kext",
+    "identifier": "cn.laobamac.SimpleHDA",
+    "version": "1.0.3"
+  },
+  {
+    "bundle": "SMCBatteryManager.kext",
+    "identifier": "ru.usrsse2.SMCBatteryManager",
+    "version": "1.3.8"
+  },
+  {
+    "bundle": "SMCProcessor.kext",
+    "identifier": "as.vit9696.SMCProcessor",
+    "version": "1.3.8"
+  },
+  {
+    "bundle": "SMCSuperIO.kext",
+    "identifier": "ru.joedm.SMCSuperIO",
+    "version": "1.3.8"
+  },
+  {
+    "bundle": "USBToolBox.kext",
+    "identifier": "com.dhinakg.USBToolBox.kext",
+    "version": "1.2.0"
+  },
+  {
+    "bundle": "UTBMap.kext",
+    "identifier": "com.dhinakg.USBToolBox.map",
+    "version": "1.1"
+  },
+  {
+    "bundle": "VirtualSMC.kext",
+    "identifier": "as.vit9696.VirtualSMC",
+    "version": "1.3.8"
+  },
+  {
+    "bundle": "VoodooI2C.kext",
+    "identifier": "com.alexandred.VoodooI2C",
+    "version": "2.9.1"
+  },
+  {
+    "bundle": "VoodooI2CHID.kext",
+    "identifier": "com.alexandred.VoodooI2CHID",
+    "version": "1"
+  },
+  {
+    "bundle": "VoodooPS2Controller.kext",
+    "identifier": "as.acidanthera.voodoo.driver.PS2Controller",
+    "version": "2.3.7"
+  },
+  {
+    "bundle": "VoodooWMI.kext",
+    "identifier": "io.github.goshin.VoodooWMI",
+    "version": "1.0.0"
+  },
+  {
+    "bundle": "VoodooWMIHotkey.kext",
+    "identifier": "io.github.goshin.VoodooWMIHotkey",
+    "version": "1.0.0"
+  },
+  {
+    "bundle": "WhateverGreen.kext",
+    "identifier": "as.vit9696.WhateverGreen",
+    "version": "1.7.1"
+  }
+]
