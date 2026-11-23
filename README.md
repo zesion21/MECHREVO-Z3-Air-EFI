@@ -162,3 +162,9 @@ python3 scripts/validate.py --ocvalidate /path/to/ocvalidate
 检查器面向**未个人化的发布副本**；填写个人身份后会有意报占位符差异，校验值也会变化。校验记录只证明结构、引用及发布脱敏检查，不替代实机验证。
 
 组件与许可证见 [THIRD_PARTY.md](THIRD_PARTY.md)，当前实际版本见 [kext-versions.json](docs/kext-versions.json)，历史下载包来源见 [component-downloads.json](docs/component-downloads.json)。原 EFI 来源提交为 `1f1bb860dddb15cdd41551b74aed9886aec7049a`。第三方组件归各自作者所有，按各自许可使用。
+
+## 鸣谢
+
+- 感谢 [Hackintosh.Club 的 macOS 镜像分享帖](https://hackintosh.club/d/10000080)及作者「乌龙蜜桃来一打」提供镜像与安装资料。
+- 感谢 [Hackintosh.Club GitHub 组织](https://github.com/hackintosh-club)公开分享 EFI 项目，为黑苹果安装和配置提供参考。
+- 感谢原 [Z3 Air EFI](https://gitee.com/zechen21/mechrevo-z3-air-efi)及 [OpenCore](https://github.com/acidanthera/OpenCorePkg)、[NullMoth](https://github.com/nullmoth/nvidia-macos-driver)等组件作者。
